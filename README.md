@@ -10,4 +10,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/>
 </p>
 
-![Kosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Kosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKosi&show_icons=true&theme=dark)
