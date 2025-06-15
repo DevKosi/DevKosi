@@ -1,5 +1,5 @@
-````markdown
-<h1 align="center"> Welcom to my space</h1>
+
+<h1 align="center">🚀 Welcome to My Space</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kosi+%F0%9F%91%8B;Builder+of+worlds+in+code;Crafting+the+future+one+line+at+a+time;Trail+%E2%80%94+Find+your+path%2C+create+your+story" alt="Typing SVG" />
@@ -8,6 +8,7 @@
 ---
 
 ### 🧠 About Me
+
 ```js
 const Kosi = {
   alias: "DevKosi",
@@ -17,7 +18,7 @@ const Kosi = {
   motto: "Find your path, create your story.",
   currentlyLearning: ["Move Lang", "Zero-Knowledge Proofs", "Systems Architecture"]
 };
-````
+```
 
 ---
 
@@ -36,30 +37,27 @@ const Kosi = {
 
 ### 🧩 Currently Working On
 
-* **CapsuleVerse** — an onchain puzzleverse where memories live, die, and get revived.
-* **Trail** — a social travel platform for dreamers and explorers, powered by Web3 identity.
+- **CapsuleVerse** — an onchain puzzleverse where memories live, die, and get revived.  
+- **Trail** — a social travel platform for dreamers and explorers, powered by Web3 identity.
 
 ---
 
 ### 📈 Stats That Speak
 
-![Kosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKosi\&show_icons=true\&theme=radical\&border_radius=12\&custom_title=🔥+Trail+Activity)
+![Kosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKosi&show_icons=true&theme=radical&border_radius=12&custom_title=🔥+Trail+Activity)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKosi\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKosi&layout=compact&theme=radical)
 
 ---
 
 ### 📡 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=X\&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Trail](https://img.shields.io/badge/Trail-Explore-blueviolet?style=for-the-badge\&logo=rocket)](#)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Iam_KOSI_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)  
+[![Trail](https://img.shields.io/badge/Trail-Explore-blueviolet?style=for-the-badge&logo=rocket)](#)
 
 ---
 
 ### ⚡ Fun Fact
 
 > "Most people code apps. I code dimensions."
-
-```
-```
