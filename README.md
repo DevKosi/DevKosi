@@ -2,8 +2,9 @@
 <h1 align="center">🚀 Welcome to My Space</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kosi+%F0%9F%91%8B;Builder+of+worlds+in+code;Crafting+the+future+one+line+at+a+time;Trail+%E2%80%94+Find+your+path%2C+create+your+story" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Hi%2C%20I%27m%20Kosi%20%F0%9F%91%8B;Builder%20of%20worlds%20in%20code;Crafting%20the%20future%20one%20line%20at%20a%20time;Trail%20%E2%80%94%20Find%20your%20path%2C%20create%20your%20story" alt="Typing SVG" />
 </p>
+
 
 ---
 
