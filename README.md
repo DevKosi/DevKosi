@@ -1,13 +1,14 @@
-
-<h1 align="center">🚀 Trailblazing Through Code</h1>
+````markdown
+<h1 align="center"> Welcom to my space</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kosi+%F0%9F%91%8B;Builder+of+worlds+in+code;Crafting+the+future+one+line+at+a+time;Trail+%E2%80%94+Find+your+path%2C+create+your+story" alt="Typing SVG" />
 </p>
 
+---
 
 ### 🧠 About Me
-
+```js
 const Kosi = {
   alias: "DevKosi",
   code: ["JavaScript", "React", "Solidity", "Node.js"],
@@ -16,6 +17,9 @@ const Kosi = {
   motto: "Find your path, create your story.",
   currentlyLearning: ["Move Lang", "Zero-Knowledge Proofs", "Systems Architecture"]
 };
+````
+
+---
 
 ### 🧰 Tools of My Craft
 
@@ -47,7 +51,7 @@ const Kosi = {
 
 ### 📡 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=X\&logoColor=white)](https://twitter.com/iam_KOSI_)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=X\&logoColor=white)](https://twitter.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourhandle)
 [![Trail](https://img.shields.io/badge/Trail-Explore-blueviolet?style=for-the-badge\&logo=rocket)](#)
 
@@ -55,13 +59,7 @@ const Kosi = {
 
 ### ⚡ Fun Fact
 
-> "Most people code apps. I code dimensions 
+> "Most people code apps. I code dimensions."
 
-### 🔧 What You Should Do:
-
-1. Replace `yourhandle` with your actual Twitter and LinkedIn usernames.
-2. Feel free to add GIFs, animations, or even a video demo link if you want to turn it up even further.
-3. For an extra futuristic vibe, we could embed a terminal-style ASCII header, or even link to a live terminal log of your contributions using something like [GitHub Readme Stats + Wakatime](https://github.com/athul/waka-readme).
-
-Want a **glitch-style theme** version or animated SVG background? Just say the word.
+```
 ```
