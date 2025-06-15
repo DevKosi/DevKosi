@@ -1,9 +1,10 @@
 
-<h1 align="center">🚀 Welcome to My Space</h1>
+<h1 align="center"> Welcome to My Space</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Hi%2C%20I%27m%20Kosi%20%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Hi%2C%20I%27m%20Kosi%20%F0%9F%91%8B&repeat=0" alt="Typing SVG" />
 </p>
+
 
 
 
@@ -14,8 +15,8 @@
 ```js
 const Kosi = {
   alias: "DevKosi",
-  code: ["JavaScript", "React", "Solidity", "Node.js"],
-  loves: ["Web3", "Hackathons", "Startups", "Trailblazing"],
+  code: ["JavaScript", "Solidity", "Rust"],
+  loves: ["Web3", "Hackathons", "Startups", "Travels"],
   building: "CapsuleVerse on the Sui Blockchain",
   motto: "Find your path, create your story.",
   currentlyLearning: ["Move Lang", "Zero-Knowledge Proofs", "Systems Architecture"]
@@ -37,12 +38,6 @@ const Kosi = {
 
 ---
 
-### 🧩 Currently Working On
-
-- **CapsuleVerse** — an onchain puzzleverse where memories live, die, and get revived.  
-- **Trail** — a social travel platform for dreamers and explorers, powered by Web3 identity.
-
----
 
 ### 📈 Stats That Speak
 
